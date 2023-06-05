@@ -21,7 +21,7 @@
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/tigerkh3#gh-dark-mode-only)
 &nbsp;&nbsp;
 
-### Languages and Tools in my Arsenal!:
+### Languages and Tools in my Arsenal:
 
 [<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />]
