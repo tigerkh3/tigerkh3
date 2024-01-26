@@ -3,7 +3,7 @@
 ## I'm a Software Engineer!
 
 - 🌱 I’m currently searching for my first software engineering position and working on passion projects on the side
-- 🥅 2023 Goals: Land my first SE position! Learn more about Docker, Continuous Development, and Machine Learning!
+- 🥅 2024 Goals: Land my first SE position! Learn more about Docker, Continuous Development, and Machine Learning!
 - ⚡ Fun fact: I love to play basketball and play video games!
 
 ### Connect with me:
